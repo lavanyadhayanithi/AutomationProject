@@ -1,0 +1,6 @@
+https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
+
+ npx cypress open
+ or
+ ./node_modules/.bin/cypress open
+ cd .\proj2\
